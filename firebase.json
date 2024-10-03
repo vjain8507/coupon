@@ -1,1 +1,39 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"coupon-rswm","appId":"1:105784175004:android:04e98f65df9ddb4bc14059","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"coupon-rswm","configurations":{"android":"1:105784175004:android:04e98f65df9ddb4bc14059","ios":"1:105784175004:ios:79c85b67242d9c58c14059","macos":"1:105784175004:ios:79c85b67242d9c58c14059","web":"1:105784175004:web:446e6e4febefcd12c14059","windows":"1:105784175004:web:4d21f31b816dfe4ac14059"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "coupon-rswm",
+          "appId": "1:105784175004:android:04e98f65df9ddb4bc14059",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "coupon-rswm",
+          "configurations": {
+            "android": "1:105784175004:android:04e98f65df9ddb4bc14059",
+            "ios": "1:105784175004:ios:79c85b67242d9c58c14059",
+            "macos": "1:105784175004:ios:79c85b67242d9c58c14059",
+            "web": "1:105784175004:web:446e6e4febefcd12c14059",
+            "windows": "1:105784175004:web:4d21f31b816dfe4ac14059"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
