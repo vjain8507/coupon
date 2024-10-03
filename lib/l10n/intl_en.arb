@@ -1,0 +1,46 @@
+{
+  "rswmLodha": "RSWM Lodha",
+  "usernamePasswordIncorrect": "Username Or Password Incorrect!!!",
+  "loginSuccess": "Login Successful!!!",
+  "useBelowAccount": "Use the Account below to Sign In",
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "enterUsername": "Please Enter Username!!!",
+  "enterPassword": "Please Enter Password!!!",
+  "signIn": "Sign In",
+  "copyright": "\u00a9 2024, RSWM Lodha",
+  "qrCode": "QR Code",
+  "close": "Close",
+  "home": "Home",
+  "settings": "Settings",
+  "totalCoupon": "Total Coupon - {couponBalance}",
+  "@totalCoupon": {
+    "description": "Total Coupon Parameters",
+    "placeholders": {
+      "couponBalance": {
+        "type": "String",
+        "example": "0"
+      }
+    }
+  },
+  "minus": "-",
+  "plus": "+",
+  "payNow": "Pay Now",
+  "refresh": "Refresh",
+  "changePassword": "Change Password",
+  "oldPassword": "Old Password",
+  "newPassword": "New Password",
+  "confirmPassword": "Confirm Password",
+  "change": "Change",
+  "cancel": "Cancel",
+  "logout": "Logout",
+  "passwordUpdated": "Password has been Updated!!!",
+  "sureLogout": "Are You Sure You Want To Logout?",
+  "yes": "Yes",
+  "no": "No",
+  "success": "Success",
+  "failed": "Failed",
+  "scanQrCode": "Scan QR Code",
+  "notifications": "Notifications"
+}

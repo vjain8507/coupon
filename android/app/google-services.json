@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105784175004",
+    "project_id": "coupon-rswm",
+    "storage_bucket": "coupon-rswm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105784175004:android:04e98f65df9ddb4bc14059",
+        "android_client_info": {
+          "package_name": "in.rswm.coupon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAknviX1Ip5gZMba5gTjUSBW8Yv1UCAPl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
